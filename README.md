@@ -10,7 +10,8 @@ My first repository.
 
 > Adriana Russo gave up skating after losing her mom, but a champion still lives in her.
 
-![Finding Her Edge poster](((https://www.whats-on-netflix.com/wp-content/uploads/2025/01/finding-her-edge-full-cast-netflix-1536x1024.jpg))
+<img width="1536" height="1024" alt="finding-her-edge-full-cast-netflix-1536x1024" src="https://github.com/user-attachments/assets/06513266-212c-4720-9000-8573f36bc830" />
+
 
 ### Quick Facts
 
