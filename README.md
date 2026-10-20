@@ -24,9 +24,9 @@ My first repository.
 
 ### Main Characters
 
-1. **Adriana Russo** (Madelyn Keys): a former ice dancer who returns to the rink.
-2. **Freddie O'Connell** (Olly Atkins): her old partner and first love.
-3. **Brayden Elliot** (Cale Ambrozic): her new skating partner.
+1. **Adriana Russo** (Madelyn Keys): a former ice dancer who returns to the rink
+2. **Freddie O'Connell** (Olly Atkins): her old partner and first love
+3. **Brayden Elliot** (Cale Ambrozic): her new skating partner
 
 ### Why I Love It
 
